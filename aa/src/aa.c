@@ -13,5 +13,7 @@
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+
+	printf("hello\n");
 	return EXIT_SUCCESS;
 }
